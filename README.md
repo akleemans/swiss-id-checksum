@@ -2,7 +2,7 @@
 
 Calculation of Swiss ID and passport checksums.
 
-### [Live Demo](https://swiss-id-checksum.github.io)
+### [Live Demo](https://akleemans.github.io/swiss-id-checksum/)
 
 ![Swiss ID image](swiss-id.png)
 
